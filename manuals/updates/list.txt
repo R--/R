@@ -1,0 +1,3 @@
+The list of all installed updates is located in /Library/Receipts/InstallHistory.plist
+or 
+System Prefs > Software Update > Installed Software.
